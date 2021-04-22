@@ -1,6 +1,6 @@
 ## Credit Card Fraud Detection 
 
-**1.Overview** In this project, we try to identify the fradulent applications for credit card using hybrid model consisting of 
+**1.Overview**  - In this project, we try to identify the fradulent applications for credit card using hybrid model consisting of 
 self orgainizing maps and neural network.This project was done as a part of Deep Learning A-Z course on Udemy.
 
 The Jupyter notebook with the hybrid model (SOM + NN) can be found [here](https://nbviewer.jupyter.org/github/abishekarun/Credit-Card-Fraud-Detection/blob/master/hybrid_som.ipynb).
@@ -55,7 +55,14 @@ get altered and the farther away the neighbor is from the BMU, the less it learn
 Best Matching Unit is a technique which calculates the distance from each weight to the
 sample vector, by running through all weight vectors. The weight with the shortest
 distance is the winner. There are numerous ways to determine the distance, however, the
-most commonly used method is the Euclidean Distance
+most commonly used method is the Euclidean Distance.
+
+**5. Dataset** - ![image](https://user-images.githubusercontent.com/46992415/115770907-e8d61e80-a3ca-11eb-9cb0-abc622a8c724.png)
+
+**6. Imported dataset** - ![image](https://user-images.githubusercontent.com/46992415/115771023-10c58200-a3cb-11eb-864a-de696bdec8fb.png)
+
+**7. Result** - ![image](https://user-images.githubusercontent.com/46992415/115771098-289d0600-a3cb-11eb-89fe-02a269643a49.png)
+
 
 
 
