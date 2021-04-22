@@ -61,7 +61,8 @@ most commonly used method is the Euclidean Distance.
 
 **6. Imported dataset** - ![image](https://user-images.githubusercontent.com/46992415/115771023-10c58200-a3cb-11eb-864a-de696bdec8fb.png)
 
-**7. Result** - ![image](https://user-images.githubusercontent.com/46992415/115771098-289d0600-a3cb-11eb-89fe-02a269643a49.png)
+**7. Result** -
+![image](https://user-images.githubusercontent.com/46992415/115771098-289d0600-a3cb-11eb-89fe-02a269643a49.png)
 
 
 
