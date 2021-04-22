@@ -5,7 +5,7 @@ self orgainizing maps and neural network.This project was done as a part of Deep
 
 The Jupyter notebook with the hybrid model (SOM + NN) can be found [here](https://nbviewer.jupyter.org/github/abishekarun/Credit-Card-Fraud-Detection/blob/master/hybrid_som.ipynb).
 
-**2.Introduction**
+**2.Introduction** - 
 A self-organizing map (SOM) is a type of artificial neural network that uses unsupervised
 learning to build a two-dimensional map of a problem space. The key difference between a
 self-organizing map and other approaches to problem solving is that a self-organizing map
@@ -27,7 +27,7 @@ techniques such as supervised learning or error-correction learning, but without
 reward signals to train an algorithm. Thus, a self-organizing map is a kind of unsupervised
 learning.
 
-**3. Basic structure**
+**3. Basic structure** - 
 The self-organization process involves four major components:
 Initialization: All the connection weights are initialized with small random values.
 Competition: For each input pattern, the neurons compute their respective values of a
@@ -36,7 +36,7 @@ the smallest value of the discriminant function is declared the winner.Cooperati
 neighbourhood of excited neurons, thereby providing the basis for cooperation among
 neighbouring neurons.
 
-**4. **Working****
+**4. **Working**** - 
 Each data point in the data set recognizes themselves by competing for representation. SOM
 mapping steps starts from initializing the weight vectors. From there a sample vector is
 selected randomly and the map of weight vectors is searched to find which weight best
